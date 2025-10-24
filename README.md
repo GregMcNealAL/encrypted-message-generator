@@ -27,3 +27,9 @@ March 3 steps backward
 
 Encrypted Message
 Wkl whudqvhu zhvwv iru wkh ilqdob iudphvkhoo...
+
+## Future Ideas
+- Add more story templates
+- Add new ciphers
+- Maybe make a simple GUI for fun
+- Add more hints or interactive decoding
