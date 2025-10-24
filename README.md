@@ -21,6 +21,10 @@ A fun little Python project that generates short mystery stories and scrambles t
 python main.py
 ```
 
-Prints an encrypted story
+```bash
+HINT
+March 3 steps backward
 
-Prints a hint for decoding
+Encrypted Message
+Wkl whudqvhu zhvwv iru wkh ilqdob iudphvkhoo...
+```
