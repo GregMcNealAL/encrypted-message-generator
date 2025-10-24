@@ -21,10 +21,9 @@ A fun little Python project that generates short mystery stories and scrambles t
 python main.py
 ```
 
-```bash
+## Example
 HINT
 March 3 steps backward
 
 Encrypted Message
 Wkl whudqvhu zhvwv iru wkh ilqdob iudphvkhoo...
-```
